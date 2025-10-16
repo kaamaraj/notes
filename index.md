@@ -1,2 +1,8 @@
-# My First Page
-Let's see how it goes
+---
+title: Home
+nav_order: 1
+---
+
+# Tech Notes
+
+Welcome! Use the left sidebar to navigate categories like Java, NoSQL, and Distributed Systems.
